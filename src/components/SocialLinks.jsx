@@ -46,8 +46,9 @@ const SocialLinks = () => {
         </li>
         <li className="flex justify-between items-center w-40 h-14 px-4 ml-[-100px] hover:ml-[-10px] hover:rounded-md duration-300 bg-gray-500">
           <a
-            href="/Chris Andary - Resume.pdf"
-            download={true}
+            href="https://docs.google.com/document/d/11qJKDI-ALB2FLQqrs9vZ5r631rMrphvfLwbdir9DxB8/edit?usp=sharing"
+            target="_blank"
+            rel="noreferrer"
             className="flex justify-between items-center w-full text-white"
           >
             <>
